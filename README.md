@@ -1,3 +1,3 @@
 # Sky
 
-Animation for OBS background.
+Animation for OBS background. https://filipchalupa.cz/sky/
